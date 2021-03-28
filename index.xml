@@ -2,17 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Curriculum Graph Co-teaching for Multi-target Domain Adaptation</title>
-    <link>https://github.com/roysubhankar.github.io/</link>
+    <link>https://www.example.com/</link>
     <description>Recent content on Curriculum Graph Co-teaching for Multi-target Domain Adaptation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Mar 2021 14:55:06 +0200</lastBuildDate><atom:link href="https://github.com/roysubhankar.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2016. All rights reserved.</copyright>
+    <lastBuildDate>Sun, 28 Mar 2021 14:55:06 +0200</lastBuildDate><atom:link href="https://www.example.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mypost</title>
-      <link>https://github.com/roysubhankar.github.io/posts/mypost/</link>
+      <link>https://www.example.com/posts/mypost/</link>
       <pubDate>Sun, 28 Mar 2021 14:55:06 +0200</pubDate>
       
-      <guid>https://github.com/roysubhankar.github.io/posts/mypost/</guid>
+      <guid>https://www.example.com/posts/mypost/</guid>
       <description>This is my first Hugo website</description>
     </item>
     
