@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>https://example.com/</link>
+    <link>http://roysubhankar.github.io/graph-domain-adaptation-website/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://roysubhankar.github.io/graph-domain-adaptation-website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>paper</title>
-      <link>https://example.com/all/</link>
+      <link>http://roysubhankar.github.io/graph-domain-adaptation-website/all/</link>
       <pubDate>Mon, 29 Mar 2021 04:07:05 +0200</pubDate>
       
-      <guid>https://example.com/all/</guid>
+      <guid>http://roysubhankar.github.io/graph-domain-adaptation-website/all/</guid>
       <description>Abstract In this paper we address multi-target domain adaptation (MTDA), where given one labeled source dataset and multiple unlabeled target datasets that differ in data distributions, the task is to learn a robust predictor for all the target domains. We identify two key aspects that can help to alleviate multiple domain-shifts in the MTDA: feature aggregation and curriculum learning. To this end, we propose Curriculum Graph Co-Teaching (CGCT) that uses a dual classifier head, with one of them being a graph convolutional network (GCN) which aggregates features from similar samples across the domains.</description>
     </item>
     
