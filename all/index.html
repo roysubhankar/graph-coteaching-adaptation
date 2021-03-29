@@ -21,7 +21,7 @@
 <script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/katex.min.js" integrity="sha384-9Nhn55MVVN0/4OFx7EE5kpFBPsEMZxKTCnA+4fqDmg12eCTqGi6+BB2LjY8brQxJ" crossorigin="anonymous"></script>
 <script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/contrib/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script>
 
-  <title> | </title>
+  <title>paper | </title>
 </head>
 
 <body>
@@ -48,9 +48,8 @@
 
   <section class="main-content">
     
-
-
-    <h2 id="abstract">Abstract</h2>
+  <h1>paper</h1>
+  <h2 id="abstract">Abstract</h2>
 <p>In this paper we address multi-target domain adaptation (MTDA), where given one labeled source dataset and multiple unlabeled target datasets that differ in data distributions, the task is to learn a robust predictor for all the target domains. We identify two key aspects that can help to alleviate multiple domain-shifts in the MTDA: <i>feature aggregation</i> and <i>curriculum learning</i>. To this end, we propose <b>Curriculum Graph Co-Teaching (CGCT)</b> that uses a dual classifier head, with one of them being a graph convolutional network (GCN) which aggregates features from similar samples across the domains. To prevent the classifiers from over-fitting on its own noisy pseudo-labels we develop a co-teaching strategy with the dual classifier head that is assisted by curriculum learning to obtain more reliable pseudo-labels. Furthermore, when the domain labels are available, we propose <b>Domain-aware Curriculum Learning (DCL)</b>, a sequential adaptation strategy that first adapts on the easier target domains, followed by the harder ones. We experimentally demonstrate the effectiveness of our proposed frameworks on several benchmarks and advance the state-of-the-art in the MTDA by large margins (e.g. <b>+5.6%</b> on the DomainNet).</p>
 <h2 id="overview">Overview</h2>
 <p>In this paper we build our framework for the MTDA pivoted around two key concepts: <i>feature aggregation</i> and <i>curriculum learning</i>.</p>
@@ -134,7 +133,6 @@
     </td>
   </tr>
 </table>
-
 
 
     <footer class="site-footer">
